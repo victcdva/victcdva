@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2> Hi, I'm Victor Córdova! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Victor Córdova!</h2>
 <!--img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"-->
 <p><em>Software Developer at <a href="https://www.intradesystem.com/">Intrade System</a><!--img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"--></br></em></p>
 
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub victcdva](https://img.shields.io/github/followers/victcdva?label=follow&style=social)](https://github.com/victcdva)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const vic = {
