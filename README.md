@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ```javascript
 const vic = {
-  pronouns: "he" | "him",
+  pronouns: "he" | "him" | "brotha" | "man",
   code: [Javascript, JQuert, HTML, CSS, Python, Java, Flutter, C#, Xamarin],
   tools: [Node, Lit-Element,  Polymer],
   architecture: ["microservices", "api-rest", "design system pattern"],
